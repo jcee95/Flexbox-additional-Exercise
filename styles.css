@@ -28,3 +28,21 @@
     margin-left: 20px;
 
   }
+  
+  .header-container {
+    font-family:Arial, Helvetica, sans-serif;
+    color: #5995DA;
+    background-color: #D6E9FE;
+    display: flex;
+    justify-content: center;
+  }
+
+  .header {
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  
